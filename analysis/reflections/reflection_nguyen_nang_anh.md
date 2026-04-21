@@ -5,9 +5,7 @@
 | Mục | Chi tiết |
 | :--- | :--- |
 | **Họ và tên** | Nguyễn Năng Anh |
-| **Email** | nanganh@student.edu.vn |
-| **Vai trò trong nhóm** | Nhóm DevOps/Analyst — Regression Release Gate |
-| **Branch làm việc** | `regression-testing-auto-gate` |
+| **Vai trò trong nhóm** | Bước 4: Regression Testing & Auto-Gate |
 | **Commit chính** | `e86155f` — _feat: implement Auto-Gate release logic and comprehensive metrics_ |
 
 ---
@@ -33,6 +31,16 @@
 
 - Khởi tạo khối `regression` object bao gồm thông số thực tế: `v1_score: 3.51`, `v2_score: 4.43`.
 - Map tự động cờ đánh giá `decision` ("APPROVE" / "BLOCK") vào file `reports/summary.json`.
+
+### 1.3. Danh sách Commit (Git Log)
+
+| Mã Commit | Nội dung đóng góp |
+| :--- | :--- |
+| `e86155f` | Implement Auto-Gate release logic and comprehensive metrics |
+| `cc5905d` | Resolve integration conflict and preserve metrics formatting |
+| `62d7ee3` | Integrate real LLMJudge and RetrievalEvaluator engines |
+| `87ac2e3` | Restructure personal report to match template |
+| `7f5afd2` | Rename and update reflection report with real results |
 
 ---
 
