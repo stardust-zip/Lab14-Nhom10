@@ -1,0 +1,11 @@
+{"prompt": "tạo nhánh khác với tên: Regression Testing & Auto-Gate", "timestamp": "2026-04-21T16:30:21+07:00"}
+{"prompt": "tách cho tôi nhiều commit", "timestamp": "2026-04-21T16:35:45+07:00"}
+{"prompt": "hãy chạy dự án ", "timestamp": "2026-04-21T16:40:36+07:00"}
+{"prompt": "chia ra nhiều commit cho tôi", "timestamp": "2026-04-21T16:54:32+07:00"}
+{"prompt": "tiếp tục", "timestamp": "2026-04-21T16:59:57+07:00"}
+{"prompt": "lỗi j đây: AttributeError: 'ExpertEvaluator' object has no attribute 'calculate_hit_rate'", "timestamp": "2026-04-21T17:17:16+07:00"}
+{"prompt": "đọc yêu cầu dự án và tạo cho tôi file cá nhân report của tôi", "timestamp": "2026-04-21T17:42:54+07:00"}
+{"prompt": "push lên github", "timestamp": "2026-04-21T17:45:41+07:00"}
+{"prompt": "@[d:\\thucchienai\\Lab14-Nhom10\\analysis\\reflections\\reflection_Duong_Phuong_Thao.md] vieets report như cấu trúc của bạn này", "timestamp": "2026-04-21T17:51:32+07:00"}
+{"prompt": "push lên chưa", "timestamp": "2026-04-21T17:54:26+07:00"}
+{"prompt": "viết lại báo cáo xem coi khớp kết quả chưa và file báo cáo là nguyen_nang_anh", "timestamp": "2026-04-21T17:58:46+07:00"}
