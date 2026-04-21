@@ -47,8 +47,8 @@ Tôi chịu trách nhiệm thiết kế và triển khai toàn bộ module **Mul
   - **Test 2:** Câu trả lời sai hoàn toàn (bịa đặt) → Kỳ vọng điểm thấp.
 
 ### 1.3. Chứng minh đóng góp
-- File `engine/llm_judge.py`: **117 dòng code**, viết từ đầu (không phải sửa placeholder).
-- Toàn bộ logic Dual-Judge, Agreement Rate, và Conflict Resolution là do tôi thiết kế và implement.
+- **Hoàn thiện file `engine/llm_judge.py`**: Phát triển và mở rộng dựa trên bộ khung (template) cơ bản có sẵn, hiện thực hóa các hàm cốt lõi để hệ thống chạy thực tế.
+- **Tích hợp logic nâng cao**: Trực tiếp implement và tinh chỉnh các cơ chế đánh giá đa mô hình (Dual-Judge), tính toán tỷ lệ đồng thuận (Agreement Rate) và xử lý xung đột tự động (Conflict Resolution) theo đúng tiêu chí của Lab.
 
 ---
 
