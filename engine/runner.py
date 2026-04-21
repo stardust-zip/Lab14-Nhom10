@@ -82,7 +82,7 @@ if __name__ == "__main__":
             {
                 "question": "Q2?",
                 "expected_answer": "Ans 2",
-"expected_retrieval_ids": ["chunk_2"],
+                "expected_retrieval_ids": ["chunk_2"],
             },
             {
                 "question": "Q3?",
@@ -108,5 +108,3 @@ if __name__ == "__main__":
         )
 
     asyncio.run(test_runner())
-
-
