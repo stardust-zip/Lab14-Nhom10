@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "version": "V2",
+    "total": 50,
+    "timestamp": "2026-04-21 16:46:30"
+  },
+  "metrics": {
+    "avg_score": 4.42,
+    "hit_rate": 1.0,
+    "mrr": 0.83,
+    "agreement_rate": 0.968,
+    "total_cost": 0.0014808
+  }
+}
