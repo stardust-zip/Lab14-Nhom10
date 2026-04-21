@@ -1,14 +1,31 @@
 {
   "metadata": {
-    "version": "V2",
     "total": 50,
-    "timestamp": "2026-04-21 16:46:30"
+    "version": "BASELINE (V1)",
+    "timestamp": "2026-04-21 17:28:48",
+    "versions_compared": [
+      "V1",
+      "V2"
+    ]
   },
   "metrics": {
-    "avg_score": 4.42,
-    "hit_rate": 1.0,
-    "mrr": 0.83,
-    "agreement_rate": 0.968,
-    "total_cost": 0.0014808
+    "avg_score": 3.32,
+    "hit_rate": 0.72,
+    "mrr": 0.6,
+    "agreement_rate": 0.956,
+    "total_cost": 0.0014677499999999999
+  },
+  "regression": {
+    "v1": {
+      "score": 3.32,
+      "hit_rate": 0.72,
+      "judge_agreement": 0.956
+    },
+    "v2": {
+      "score": 4.39,
+      "hit_rate": 1.0,
+      "judge_agreement": 0.9540000000000001
+    },
+    "decision": "APPROVE"
   }
 }
